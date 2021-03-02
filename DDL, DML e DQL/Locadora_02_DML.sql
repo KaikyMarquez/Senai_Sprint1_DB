@@ -8,8 +8,8 @@ VALUES						('Cleber','12345678951','Rua Mato grosso,755'),
 							('Rafael','52346812965','Rua Paraiba,13');
 
 INSERT INTO Alugueis		(_Data,Valor,idPessoa)
-VALUES						('25/08/2000 แ 25/09/2000','R$5000,00',1),
-							('29/10/2001 แ 05/11/2001','R$600,00',2);
+VALUES						('25/08/2000 รก 25/09/2000','R$5000,00',1),
+							('29/10/2001 รก 05/11/2001','R$600,00',2);
 
 INSERT INTO Veiculos		(Placa,idEmpresa,idAluguel)
 VALUES						('AKS-4532',1,1),
